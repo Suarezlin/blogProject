@@ -2,35 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a263040-4239-466e-8267-6a21a4997376" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/blog/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/custom.css" afterPath="$PROJECT_DIR$/static/blog/css/custom.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/autumn.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/autumn.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/borland.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/borland.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/bw.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/bw.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/colorful.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/colorful.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/default.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/default.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/emacs.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/emacs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/friendly.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/friendly.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/fruity.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/fruity.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/github.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/github.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/manni.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/manni.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/monokai.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/monokai.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/murphy.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/murphy.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/native.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/native.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/pastie.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/pastie.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/perldoc.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/perldoc.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/tango.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/tango.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/trac.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/trac.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/vim.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/vim.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/vs.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/vs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/highlights/zenburn.css" afterPath="$PROJECT_DIR$/static/blog/css/highlights/zenburn.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/css/pace.css" afterPath="$PROJECT_DIR$/static/blog/css/pace.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/blog/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/static/blog/js/jquery-2.1.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/static/blog/js/modernizr.custom.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/js/pace.min.js" afterPath="$PROJECT_DIR$/static/blog/js/pace.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/blog/static/blog/js/script.js" afterPath="$PROJECT_DIR$/static/blog/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/custom.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/autumn.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/autumn.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/borland.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/borland.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/bw.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/bw.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/colorful.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/colorful.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/default.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/emacs.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/emacs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/friendly.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/friendly.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/fruity.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/fruity.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/github.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/github.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/manni.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/manni.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/monokai.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/monokai.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/murphy.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/murphy.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/native.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/native.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/pastie.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/pastie.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/perldoc.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/perldoc.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/tango.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/tango.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/trac.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/trac.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/vim.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/vim.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/vs.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/vs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/highlights/zenburn.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/highlights/zenburn.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/css/pace.css" afterPath="$PROJECT_DIR$/blog/static/blog/css/pace.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/blog/static/blog/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/blog/static/blog/js/jquery-2.1.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/js/modernizr.custom.js" afterPath="$PROJECT_DIR$/blog/static/blog/js/modernizr.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/js/pace.min.js" afterPath="$PROJECT_DIR$/blog/static/blog/js/pace.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/static/blog/js/script.js" afterPath="$PROJECT_DIR$/blog/static/blog/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blogproject/settings.py" afterPath="$PROJECT_DIR$/blogproject/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +81,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogproject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="-2356">
+              <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -239,16 +238,6 @@
             <path>
               <item name="blogproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="blogproject" type="462c0819:PsiDirectoryNode" />
-              <item name="blogproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogproject" type="462c0819:PsiDirectoryNode" />
-              <item name="comments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blogproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blogproject" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,6 +262,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -328,9 +318,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="727" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -512,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blogproject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="-2356">
+          <caret line="27" column="48" lean-forward="false" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
           <folding />
         </state>
       </provider>
